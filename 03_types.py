@@ -7,6 +7,7 @@ print(type(my_name))
 
 #int 
 my_age = 24;
+print("Este es el entero ", type(my_age))
 
 
 # Boolean 
