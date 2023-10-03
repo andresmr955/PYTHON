@@ -18,4 +18,5 @@ print("Aqui cambio" + my_name)
 #input 
 
 my_name = input("Cual es tu nombre: ")
-print("El nombre del usuario es: " + my_name)
+my_age = input("Cual es tu edad: ")
+print("El nombre del usuario es: " + my_name + " y su edad es: " + my_age)
