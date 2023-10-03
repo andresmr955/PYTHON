@@ -13,6 +13,3 @@ print(10 / 5);
 Comentario varias lineas
 """    
 
-"""
-Comentario varias lineas
-"""    
